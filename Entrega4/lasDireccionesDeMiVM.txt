@@ -1,0 +1,4 @@
+DIRECCION IP PRIVADA   inet 127.0.0.1/8 
+DIRECCION IP  PUBLICA  inet 10.0.2.15/24 brd 
+DIRECCION MAC link/ether 08:00:27:91:20:ad
+Si son diferentes a las del host, ya que las direcciones IP de un maquina virtual son independientes y diferentes debido a la configuracion y la forma en que se implementa la red. 
